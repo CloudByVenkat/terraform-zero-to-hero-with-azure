@@ -1,3 +1,49 @@
+# 👋 Hi, I'm ** Venkat (Subbareddy Vundela)**
+
+### 🚀 **Cloud Solution Architect — Azure | Terraform | Kubernetes | Ansible | Azure DevOps | Storage SME**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cloudbyvenkat/)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube)](https://www.youtube.com/@CloudByVenkat)
+[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=flat&logo=medium)](https://medium.com/@CloudByVenkat)
+[![X](https://img.shields.io/badge/X-Follow-black?style=flat&logo=x)](https://x.com/CloudByVenkat)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=flat&logo=facebook)](https://www.facebook.com/CloudByVenkat)
+
+---
+
+## 🏷️ **Professional Summary**
+
+Azure Certified Expert (AZ-104 & AZ-305) | Multi-Cloud & DevOps Leader  
+Driving modern cloud innovation, automation at scale, and AI adoption.
+
+Results-driven architect with **15+ years of experience** delivering enterprise cloud transformation across **Azure, AWS, and GCP**. Passionate about building scalable systems, automating infrastructure, optimising cloud spend, and integrating AI into modern cloud-native architectures.
+
+---
+
+## 🔭 **What I’m Working On**
+- Designing & delivering **cloud-native platforms on Azure**
+- Expanding into **AI-driven & generative AI solutions**
+- Driving **Infra-as-Code, GitOps & platform engineering**
+- Leading **security, FinOps & multi-cloud strategy**
+
+---
+
+## 🤝 **Collaboration & Mentorship**
+- Open to: cloud architecture, AI integration, multi-cloud, DevOps
+- Mentoring around: cloud careers, automation, infra design
+- Community-driven knowledge sharing
+
+---
+
+## 💬 **Ask Me About**
+> Azure • Terraform • Kubernetes • GitOps • Multi-Cloud Strategy • FinOps • CI/CD • AI in Cloud • IaC • Security & Compliance
+
+---
+
+## 🏆 **Certifications**
+- Microsoft Certified — **Azure Solutions Architect Expert**
+- Microsoft Certified — **Azure Administrator Associate**
+
+---
 # 🚀 30-Day Terraform on Azure Challenge — Zero to Hero
 
 A hands-on, content-friendly challenge designed to go from **Terraform beginner** → **deploying production-style infrastructure on Azure** in 30 days.
