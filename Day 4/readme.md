@@ -53,5 +53,10 @@ az login
 ```
 Terraform automatically consumes Azure CLI authentication in a local environment, which keeps the setup simple.
 
+---
+## 🔜 Day 5 Preview
+Next up:
+> "Deploying First “Real” Azure Resources — Resource Group + Storage + Naming Conventions"
 
+This moves beyond “Hello World” into structured resource provisioning.
 
