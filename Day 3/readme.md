@@ -19,6 +19,7 @@ Terraform follows a predictable lifecycle:
 | `terraform apply` | Executes changes against Azure |
 | `terraform destroy` | Removes resources created by Terraform |
 
+![terraform_workflow](https://github.com/CloudByVenkat/terraform-zero-to-hero-with-azure/blob/main/images/terraform_workflow.png)
 ---
 
 ## 💻 First Terraform Resource ("Hello World")
