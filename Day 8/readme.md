@@ -102,7 +102,7 @@ Entire network can be:
 ---
 
 ## 🗺️ Architecture Overview
-![architecture]()
+![architecture](https://github.com/CloudByVenkat/terraform-zero-to-hero-with-azure/blob/main/Day%208/images/vnet%20daigram.png)
 ---
 
 ## 📌 Part of Series
