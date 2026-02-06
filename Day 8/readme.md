@@ -60,7 +60,7 @@ Private Subnet (isolated)
 
 ## 📁 Project Structure
 
-![folder-structure]()
+![folder-structure](https://github.com/CloudByVenkat/terraform-zero-to-hero-with-azure/blob/main/Day%208/images/structure.png)
 
 ---
 
@@ -111,8 +111,8 @@ This repo is part of my public learning journey:
 
 **30 Days of Terraform + Azure**
 
-Follow progress:
-👉 [https://www.linkedin.com/in/cloudbyvenkat/]
+Follow progress:  
+👉 [https://www.linkedin.com/in/cloudbyvenkat/]  
 👉 [https://github.com/careerbytecode/terraform-zero-to-hero-with-azure]
 
 ---
