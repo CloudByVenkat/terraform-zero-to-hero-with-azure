@@ -5,7 +5,7 @@
 
 # 📁 Day 11 — Terraform Modules
 
-# Day 11 – Terraform Modules (Reusable Infrastructure)
+# Terraform Modules (Reusable Infrastructure)
 
 Today I stopped copy-pasting Terraform code and started building reusable modules.
 

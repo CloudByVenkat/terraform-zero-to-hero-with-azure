@@ -5,7 +5,7 @@
 
 # 📁 Day 13 — Terraform Data Sources
 
-# Day 13 – Terraform Data Sources (Using Existing Infrastructure)
+# Terraform Data Sources (Using Existing Infrastructure)
 
 Today I learned how to reference existing Azure resources instead of creating new ones.
 
