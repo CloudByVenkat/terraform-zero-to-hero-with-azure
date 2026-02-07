@@ -17,9 +17,9 @@ Terraform must integrate, not duplicate.
 
 ## 🚀 When to use data sources
 
-✔ existing resource groups
-✔ shared VNets
-✔ central storage
+✔ existing resource groups  
+✔ shared VNets  
+✔ central storage  
 ✔ key vaults
 
 ---
@@ -30,3 +30,4 @@ Terraform must integrate, not duplicate.
 data "azurerm_resource_group" "existing" {
   name = "shared-rg"
 }
+
