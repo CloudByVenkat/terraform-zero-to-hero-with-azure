@@ -5,9 +5,6 @@
 
 # 📁 Day 10 — Remote State Management
 
-## README.md
-
-```md
 # Day 10 – Terraform State Management (Local vs Remote)
 
 Today I learned why Terraform state is critical for real-world teams.

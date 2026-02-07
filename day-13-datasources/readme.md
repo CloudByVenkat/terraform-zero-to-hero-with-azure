@@ -5,9 +5,6 @@
 
 # 📁 Day 13 — Terraform Data Sources
 
-## README.md
-
-```md
 # Day 13 – Terraform Data Sources (Using Existing Infrastructure)
 
 Today I learned how to reference existing Azure resources instead of creating new ones.

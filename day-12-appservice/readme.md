@@ -5,9 +5,6 @@
 
 # 📁 Day 12 — Azure App Service Deployment
 
-## README.md
-
-```md
 # Day 12 – Deploy Azure App Service with Terraform
 
 Today I deployed a production-style web app using Infrastructure as Code.

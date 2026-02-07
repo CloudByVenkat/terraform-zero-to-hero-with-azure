@@ -5,9 +5,6 @@
 
 # 📁 Day 11 — Terraform Modules
 
-## README.md
-
-```md
 # Day 11 – Terraform Modules (Reusable Infrastructure)
 
 Today I stopped copy-pasting Terraform code and started building reusable modules.
