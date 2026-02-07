@@ -15,10 +15,10 @@ Modules = functions for infrastructure.
 
 ## 🚀 Goal
 
-Make code:
-✔ reusable
-✔ cleaner
-✔ scalable
+Make code:  
+✔ reusable   
+✔ cleaner  
+✔ scalable  
 ✔ DRY
 
 ---
@@ -33,10 +33,10 @@ Make code:
 
 ## After modules
 
-Reusable components:
+Reusable components:  
 
-modules/
-├── network/
+modules/  
+├── network/  
 ├── vm/
 
 ---
@@ -53,3 +53,4 @@ module "vm" {
   source = "./modules/vm"
   vm_name = "demo-vm"
 }
+
