@@ -34,23 +34,23 @@ Terraform → **~2 minutes + reusable forever**
 ## 🏗 Architecture
 
 VM
-↓
-NIC
-↓
-Subnet
-↓
-VNet
-↓
+↓  
+NIC  
+↓  
+Subnet  
+↓  
+VNet  
+↓  
 NSG
 
 ---
 
 ## 📂 Project Structure
 
-.
-├── main.tf
-├── variables.tf
-├── outputs.tf
+.  
+├── main.tf  
+├── variables.tf  
+├── outputs.tf  
 └── terraform.tfvars
 
 ---
@@ -67,4 +67,5 @@ Destroy when done:
 ```bash
 terraform destroy
 ```
+
 
