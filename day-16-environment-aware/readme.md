@@ -1,10 +1,9 @@
 # 🚀 Day 16 — Intelligent Infrastructure with Conditional Expressions
-
+## [Cost Comparision - Click Here](https://cloudbyvenkat.github.io/terraform-zero-to-hero-with-azure/day-16-environment-aware/index.html)
 ## 🎯 Objective
 
 Design environment-aware infrastructure using Terraform conditionals —  
 so the same codebase adapts automatically across Dev and Production.
-
 This is where Terraform moves from static provisioning  
 to intelligent system design.
 
